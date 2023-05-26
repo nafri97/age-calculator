@@ -44,7 +44,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github Repository](https://github.com/nafri97/age-calculator)
-- Live Site URL: [Github Pages](https://nafri97.github.io/age-calculator)
+- Live Site URL: [Vercel App](http://age-calculator-hipo5l075-nafri97.vercel.app)
 
 ## My process
 
